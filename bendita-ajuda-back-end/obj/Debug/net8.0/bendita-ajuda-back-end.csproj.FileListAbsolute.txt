@@ -102,3 +102,4 @@ C:\Users\Casa\source\repos\bendita-ajuda-8\bendita-ajuda-back-end\bendita-ajuda-
 C:\Users\Casa\source\repos\bendita-ajuda-8\bendita-ajuda-back-end\bendita-ajuda-back-end\obj\Debug\net8.0\bendita-ajuda-back-end.pdb
 C:\Users\Casa\source\repos\bendita-ajuda-8\bendita-ajuda-back-end\bendita-ajuda-back-end\obj\Debug\net8.0\bendita-ajuda-back-end.genruntimeconfig.cache
 C:\Users\Casa\source\repos\bendita-ajuda-8\bendita-ajuda-back-end\bendita-ajuda-back-end\obj\Debug\net8.0\ref\bendita-ajuda-back-end.dll
+C:\Users\Casa\source\repos\bendita-ajuda-8\bendita-ajuda-back-end\bendita-ajuda-back-end\obj\Debug\net8.0\bendita-ajuda-back-end.sourcelink.json
