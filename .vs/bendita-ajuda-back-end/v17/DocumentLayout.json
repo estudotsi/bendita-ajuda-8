@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|c:\\users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|solutionrelative:bendita-ajuda-back-end\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|c:\\users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|solutionrelative:bendita-ajuda-back-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|c:\\users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\extensions\\apiexceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|solutionrelative:bendita-ajuda-back-end\\extensions\\apiexceptionmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|c:\\users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\models\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|solutionrelative:bendita-ajuda-back-end\\models\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|c:\\users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|solutionrelative:bendita-ajuda-back-end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|c:\\users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|solutionrelative:bendita-ajuda-back-end\\models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|c:\\users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|solutionrelative:bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|c:\\users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|solutionrelative:bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|c:\\users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\controllers\\servicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|solutionrelative:bendita-ajuda-back-end\\controllers\\servicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|c:\\users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|solutionrelative:bendita-ajuda-back-end\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|c:\\users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\data\\benditaajudadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|solutionrelative:bendita-ajuda-back-end\\data\\benditaajudadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|c:\\users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\migrations\\20240528021814_segunda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|solutionrelative:bendita-ajuda-back-end\\migrations\\20240528021814_segunda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Casa\\source\\repos\\bendita-ajuda-8\\bendita-ajuda-back-end\\bendita-ajuda-back-end\\Migrations\\20240528020347_Inicial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Casa\\source\\repos\\bendita-ajuda-8\\bendita-ajuda-back-end\\bendita-ajuda-back-end\\Migrations\\20240528020232_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|c:\\users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\migrations\\20240528020411_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A68057-9B2A-416D-ACDA-D16F325267E8}|bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj|solutionrelative:bendita-ajuda-back-end\\migrations\\20240528020411_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Models\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "bendita-ajuda-back-end\\Models\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Models\\ErrorDetails.cs",
+              "RelativeToolTip": "bendita-ajuda-back-end\\Models\\ErrorDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:14:14.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "bendita-ajuda-back-end\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "bendita-ajuda-back-end\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswDEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:19:44.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240528020347_Inicial2.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\bendita-ajuda-8\\bendita-ajuda-back-end\\bendita-ajuda-back-end\\Migrations\\20240528020347_Inicial2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Casa\\source\\repos\\bendita-ajuda-8\\bendita-ajuda-back-end\\bendita-ajuda-back-end\\Migrations\\20240528020347_Inicial2.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\bendita-ajuda-8\\bendita-ajuda-back-end\\bendita-ajuda-back-end\\Migrations\\20240528020347_Inicial2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Casa\\source\\repos\\bendita-ajuda-8\\bendita-ajuda-back-end\\bendita-ajuda-back-end\\Migrations\\20240528020347_Inicial2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T02:03:47.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240528020232_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\source\\repos\\bendita-ajuda-8\\bendita-ajuda-back-end\\bendita-ajuda-back-end\\Migrations\\20240528020232_Inicial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Casa\\source\\repos\\bendita-ajuda-8\\bendita-ajuda-back-end\\bendita-ajuda-back-end\\Migrations\\20240528020232_Inicial.cs",
+              "ToolTip": "C:\\Users\\Casa\\source\\repos\\bendita-ajuda-8\\bendita-ajuda-back-end\\bendita-ajuda-back-end\\Migrations\\20240528020232_Inicial.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Casa\\source\\repos\\bendita-ajuda-8\\bendita-ajuda-back-end\\bendita-ajuda-back-end\\Migrations\\20240528020232_Inicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T02:02:32.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Models\\Servico.cs",
+              "RelativeDocumentMoniker": "bendita-ajuda-back-end\\Models\\Servico.cs",
+              "ToolTip": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Models\\Servico.cs",
+              "RelativeToolTip": "bendita-ajuda-back-end\\Models\\Servico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T01:40:03.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Program.cs",
+              "RelativeDocumentMoniker": "bendita-ajuda-back-end\\Program.cs",
+              "ToolTip": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Program.cs",
+              "RelativeToolTip": "bendita-ajuda-back-end\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T01:55:52.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\appsettings.json",
+              "RelativeDocumentMoniker": "bendita-ajuda-back-end\\appsettings.json",
+              "ToolTip": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\appsettings.json",
+              "RelativeToolTip": "bendita-ajuda-back-end\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T01:56:16.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiExceptionMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "bendita-ajuda-back-end\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
+              "RelativeToolTip": "bendita-ajuda-back-end\\Extensions\\ApiExceptionMiddlewareExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:29:09.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240528020411_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Migrations\\20240528020411_Inicial.cs",
+              "RelativeDocumentMoniker": "bendita-ajuda-back-end\\Migrations\\20240528020411_Inicial.cs",
+              "ToolTip": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Migrations\\20240528020411_Inicial.cs",
+              "RelativeToolTip": "bendita-ajuda-back-end\\Migrations\\20240528020411_Inicial.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T02:04:12.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240528021814_Segunda.cs",
+              "DocumentMoniker": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Migrations\\20240528021814_Segunda.cs",
+              "RelativeDocumentMoniker": "bendita-ajuda-back-end\\Migrations\\20240528021814_Segunda.cs",
+              "ToolTip": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Migrations\\20240528021814_Segunda.cs",
+              "RelativeToolTip": "bendita-ajuda-back-end\\Migrations\\20240528021814_Segunda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T02:18:14.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bendita-ajuda-back-end.csproj",
+              "DocumentMoniker": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj",
+              "RelativeDocumentMoniker": "bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj",
+              "ToolTip": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj",
+              "RelativeToolTip": "bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-28T01:37:54.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bendita-ajuda-back-end",
+              "DocumentMoniker": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj",
+              "RelativeDocumentMoniker": "bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj",
+              "ToolTip": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj",
+              "RelativeToolTip": "bendita-ajuda-back-end\\bendita-ajuda-back-end.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T02:16:39.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BenditaAjudaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Data\\BenditaAjudaDbContext.cs",
+              "RelativeDocumentMoniker": "bendita-ajuda-back-end\\Data\\BenditaAjudaDbContext.cs",
+              "ToolTip": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Data\\BenditaAjudaDbContext.cs",
+              "RelativeToolTip": "bendita-ajuda-back-end\\Data\\BenditaAjudaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T01:53:53.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServicoController.cs",
+              "DocumentMoniker": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Controllers\\ServicoController.cs",
+              "RelativeDocumentMoniker": "bendita-ajuda-back-end\\Controllers\\ServicoController.cs",
+              "ToolTip": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Controllers\\ServicoController.cs",
+              "RelativeToolTip": "bendita-ajuda-back-end\\Controllers\\ServicoController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:23:38.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "bendita-ajuda-back-end\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\rogerio.campos\\source\\repos\\bendita-ajuda-dotnet-8\\dotne8\\bendita-ajuda-back-end\\Models\\Categoria.cs",
+              "RelativeToolTip": "bendita-ajuda-back-end\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T01:39:51.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
